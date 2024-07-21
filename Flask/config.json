@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/experiences",
+        "prod_uri":"mysql://root:@localhost/experiences",
+        "fb_url":"https://facebook.com/experiences",
+        "tw_url":"https://twitter.com/experiences",
+        "gh_url":"https://github.com/experiences",
+        "blog_name":"My Experiences",
+        "gmail_user":"shbaranwal00@gmail.com",
+        "gmail_password":"sb21/03/2003",
+        "about_text":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta voluptatibus corporis atque iste neque sit tempora!",
+        "no_of_posts":2,
+        "admin_user":"vishakha",
+        "admin_psd":"subscribenow",
+        "upload_location":"C:\\Users\\Shiwangi Baranwal\\Python\\Flask"
+    }
+}
